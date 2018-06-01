@@ -64,7 +64,6 @@ exports.handler = function(event, context, callback) {
         });
 });
     
-    
 }
 
 function formatPhoneNumber(s) {

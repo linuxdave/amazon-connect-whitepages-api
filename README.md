@@ -1,4 +1,4 @@
-# amazon-connect-whitepages-api
+# Amazon Connect: Whitepages API Demo
 Amazon Connect integration with the WhitePages Pro API via Node.JS lambda function 
 
 1. Signup for whitepages Pro API: https://pro.lookup.whitepages.com/api/dashboard
